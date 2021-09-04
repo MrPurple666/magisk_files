@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": " d5c5af9",
+    "versionCode": "23001",
+    "link": "https://github.com/MrPurple666/magisk_files/blob/alpha/app-release.apk?raw=true",
+    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://github.com/MrPurple666/magisk_files/blob/alpha/stub-release.apk?raw=true"
+  }
+}
