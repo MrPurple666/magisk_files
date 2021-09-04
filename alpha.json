@@ -3,7 +3,7 @@
     "version": " d5c5af9",
     "versionCode": "23001",
     "link": "https://github.com/MrPurple666/magisk_files/blob/alpha/app-release.apk?raw=true",
-    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
+    "note": "https://raw.githubusercontent.com/MrPurple666/magisk_files/alpha/notes.md"
   },
   "stub": {
     "versionCode": "21",
